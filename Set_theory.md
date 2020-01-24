@@ -20,7 +20,8 @@ In other words, performing 'OR' operation on sets results in A U B.
 **Infinite World:**
 
 **Real numbers:** The type of number we normally use, such as 1, 15.82, −0.1, 3/4, etc. Positive or negative, large or small, whole numbers or decimal numbers are all Real Numbers. They are called "Real Numbers" because they are not Imaginary Numbers.
- 
+
+![realNumbers](Images/realNumbers.png)
 
 Consider an infinite number line, we can see that the numbers on the right of zero are positive real numbers and to the left of zero are negative real numbers.
 Consider two points on the number line. For ex, 0 and 0.1
@@ -29,6 +30,7 @@ There are infinite real numbers between 0 and 0.1. i.e. 0.01,0.011,0.0111……�
 **Absolute Value:**
 The absolute value of a number x, |x|, is the distance from x to 0.
 
+![absoluteValue](Images/absoluteValue.png)
                                 
 Example:
 |3| = 3
